@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Assistive App</string>
-    <string name="sos_button_text">SOS</string>
-    <string name="emergency_contacts_title">Emergency Contacts</string>
-    <string name="add_contact">Add Contact</string>
-    <string name="status_bluetooth">Bluetooth: Disconnected</string>
-</resources>
