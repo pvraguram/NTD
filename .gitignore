@@ -1,0 +1,37 @@
+# Secrets and Credentials
+**/google-services.json
+*.pem
+*.key
+*.keystore
+**/local.properties
+
+# Android build artifacts
+NTD_Android\ Studio/build/
+NTD_Android\ Studio/app/build/
+NTD_Android\ Studio/.gradle/
+NTD_Android\ Studio/.idea/
+*.apk
+*.aar
+
+# Node modules (Antigravity)
+NTD_Antigravity/node_modules/
+NTD_Antigravity/dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
